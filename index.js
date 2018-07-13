@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-const driver = {
+var driver = {
 }
 
 function updateDriverWithKeyAndValue(driver, key, value) {
